@@ -1,0 +1,40 @@
+{
+  "squadName" : “The Protectors”,
+  "homeTown" : “Justice City”,
+  "formed" : 2020,
+  "secretBase" : “Justice Tower”,
+  "active" : true,
+  "members" : [
+    {
+      "name" : “Quick Red”,
+      "age" : 22;
+      "secretIdentity" : “Zack Strange”,
+      "powers" : [
+        “Super Speed”,
+        “Super Thinking”,
+        “Super” Healing”,
+      ]
+    },
+    {
+      "name" : “Gadget Woman”,
+      "age" : 50’
+      "secretIdentity" : “Lesile Johnson”,
+      "powers" : [
+        “Super Strength”,
+        “Create Gadgets”,
+        “Increased IQ”,
+      ]
+    },
+    {
+      "name" : “Normal Guy”,
+      "age" : 30,
+      "secretIdentity" : “John Smith,
+      "powers" : [
+        “House Cleaning”,
+        “Back Pain”,
+        “Below Average Speed,
+        
+      ]
+    }
+  ]
+}
